@@ -2,3 +2,22 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+/*
+.btn-upload {
+  color: #fff !important;
+  background: #3f51b5 !important;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.btn-upload:hover {
+  color: #fff !important;
+  background: #2a367a !important;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.btn-send:hover{
+  background: #2a367a !important;
+}*/
